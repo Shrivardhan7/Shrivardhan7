@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shrivardhan7
-- 👀 I’m interested in Python 
+- 👀 I’m interested in coding various programming languages 
 - 🌱 I’m currently learning python, data science & machine learning  
 - 💞️ I’m looking to collaborate on python project 
 - 📫 How to reach me? google shrivardhan7
